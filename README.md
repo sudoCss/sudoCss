@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, software engineering and technology
 - 🌱 I’m currently learning to develop Games and Android applications
 - 💞️ I’m looking to collaborate on building a better community
-- 📫 You can reach me at : [Email](mailto:alkalash.hamza@gmail.com), [Telegram 1](https://t.me/Hamza_Kalash), [Telegram 2](https://t.me/Hamza_Kalash2), [Twitter](https://twitter.com/Hamza_Kalash_S) and [Facebook](https://www.facebook.com/hamza.kalash.s)
+- 📫 You can reach me at : [Email](mailto:alkalash.hamza@gmail.com), [Telegram 1](https://t.me/Hamza_Kalash), [Telegram 2](https://t.me/Hamza_Kalash2), [Linkedin](https://linkedin.com/hamza_kalash-s),  [Twitter](https://twitter.com/Hamza_Kalash_S) and [Facebook](https://www.facebook.com/hamza.kalash.s)
 
 
 <!---
