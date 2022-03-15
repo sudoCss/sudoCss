@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, software engineering, open source and technology in general
 - 🌱 I'm currently learning the art of making the web
 - 💞️ I’m looking forward to collaborate on building a better community
-- 📫 You can reach me at : [Email](mailto:alkalash.hamza@gmail.com), [Telegram](https://t.me/Hamza_Kalash) and [Twitter](https://twitter.com/sudoCss)
+- 📫 You can reach me at : [Email](mailto:alkalash.hamza@gmail.com), [Telegram](https://t.me/sudoCss), [FaceBook](https://www.facebook.com/sudoCss.hamza/) and [Reddit](https://www.reddit.com/user/sudoCss)
